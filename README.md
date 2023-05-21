@@ -1,3 +1,7 @@
+temple economy - 50 lakh temple, feed 5 person per temple
+temple - tour, guide, stay, donation, historical importance, 3d tour of temple,
+wedding economy -  3d video, customise song, banquet hall, event management 
+
 # daily-learing-summary 
 ## start- 9th May 2023
 [15 projects JS FreeCodeCamp] (https://youtu.be/3PHXvlpOkf4) 
